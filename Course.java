@@ -1,6 +1,7 @@
 /*
 Name: Xandra Leal
-Date: 02/10/2026
+Name: Chase Batchelor 
+Date: 02/20/2026
 Program: Course Grades Analyzer - Reads CSV grade totals and analyzes a percentages
  */
 
