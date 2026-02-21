@@ -1,3 +1,11 @@
+/*
+Name: Xandra Leal
+Name: Chase Batchelor 
+Date: 02/20/2026
+Program: Course Grades Analyzer - Reads CSV grade totals and analyzes a percentages
+ */
+
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
